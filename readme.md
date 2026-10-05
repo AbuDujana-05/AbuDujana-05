@@ -18,8 +18,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AbuDujana-05&icon=0&color=8)](https://visitcount.itsvg.in)
 
----
-![Developer Joke](https://vercel.app)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
